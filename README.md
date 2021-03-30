@@ -12,7 +12,7 @@
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
+![alt text](https://cdn-images-1.medium.com/max/800/1*QfaexuZTGHeyMpypOoC2Dg.gif)
  
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
