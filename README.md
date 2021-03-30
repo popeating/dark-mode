@@ -7,21 +7,13 @@
   Gatsby Dark Mode
 </h1>
 
-## Support files for Dark Mode Tutorial
 
-1.  **Create a Gatsby site.**
+**Basic project that will show how to add DARK MODE feature in a Gatsby Project**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+   Follow the tutorial on Medium.
+   [Tutorial](https://popeating.medium.com/how-to-query-remote-graphql-data-with-apollo-in-gatsby-d199a3e618d0)
+
+  
 ![alt text](https://cdn-images-1.medium.com/max/800/1*QfaexuZTGHeyMpypOoC2Dg.gif)
  
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+   
