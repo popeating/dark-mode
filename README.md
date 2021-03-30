@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby Dark Mode
 </h1>
 
-## 🚀 Quick start
+## Support files for Dark Mode Tutorial
 
 1.  **Create a Gatsby site.**
 
