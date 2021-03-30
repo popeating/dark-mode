@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Dark Mode",
+    title: 'Dark Mode',
   },
   plugins: [],
 };
