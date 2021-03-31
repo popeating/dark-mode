@@ -11,7 +11,7 @@
 **Basic project that will show how to add DARK MODE feature in a Gatsby Project**
 
    Follow the tutorial on Medium.
-   [Tutorial](https://popeating.medium.com/how-to-query-remote-graphql-data-with-apollo-in-gatsby-d199a3e618d0)
+   [Tutorial](https://popeating.medium.com/how-to-add-dark-mode-in-a-gatsby-website-23df7289b220)
 
   
 ![alt text](https://cdn-images-1.medium.com/max/800/1*QfaexuZTGHeyMpypOoC2Dg.gif)
